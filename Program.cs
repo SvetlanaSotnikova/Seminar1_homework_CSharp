@@ -59,7 +59,7 @@ else
 /* Console.Write("Your num : ");
 int num = Convert.ToInt32(Console.ReadLine());
 
-int current = 1; //or 1
+int current = 0; //or 1
 
 while (current <= num) {
     if (current % 2 == 0)
