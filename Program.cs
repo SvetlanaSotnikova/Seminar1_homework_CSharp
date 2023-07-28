@@ -66,3 +66,13 @@ while (current <= num) {
     Console.Write(current + " ");
     current ++;
 } */
+
+/*
+Console.Write(" Your num: ");
+int num = Convert.ToInt32(Console.ReadLine());
+int i = 0;
+while (i <= num) {
+    Console.Write(i + " ");
+    i+=2;
+}
+*/
